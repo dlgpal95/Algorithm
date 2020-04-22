@@ -4,13 +4,10 @@ public class algo1 {
 	
 	public static void main(String[] args) {
 		int[] nums = {2, 7, 11, 15};
-
-		for(int i:twoSum(nums,9)) {
-		    System.out.print(i);
-		}	
+		twoSum(nums,9);
 	}
 	
-    public static int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         
         for(int i=0; i<nums.length;i++){
