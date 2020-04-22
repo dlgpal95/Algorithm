@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;hmAlgo&apos; to &apos;Algo20200422&apos;&#x0D;&#x0A;- Original project: &apos;Algorithm&apos;&#x0D;&#x0A;- Original element: &apos;Algorithm/src/hmAlgo&apos;&#x0D;&#x0A;- Renamed element: &apos;Algorithm/src/Algo20200422&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;hmAlgo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;hmAlgo" name="Algo20200422" qualified="false" references="true" stamp="1587532859870" textual="false" version="1.0"/>
+</session>
