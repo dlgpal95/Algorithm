@@ -48,6 +48,7 @@ public class AddBinary {
 	}
 
 //=============Integer Max값 생각하기.!!!!!!!!!!!! 처음부터 안되는 코드 ^^^^^^^^^^=================//
+	
 	public class Solution2 {
 		public String addBinary(String a, String b) {
 			StringBuilder sb = new StringBuilder();
